@@ -42,6 +42,8 @@ For the lab, you are going to use the INNOVUS tools from Cadence. Create a sourc
 setenv LM_LICENSE_FILE "28211@item0096"
 source /eda/cadence/2017-18/scripts/INNOVUS_17.11.000_RHELx86.csh
 
+
+
 Now you can source that file.
 
 **source sourceme.csh**
@@ -49,5 +51,7 @@ Now you can source that file.
 And then, I can start the tool
 
 **innovus -log log/**
+
+
 
 
